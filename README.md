@@ -4,8 +4,7 @@ An assistive technology project designed to help blind and visually impaired peo
 
 ## Project Idea
 
-This project is designed as a smart glasses system that helps blind and visually impaired people detect obstacles.
-
+This project is designed to be integrated into a pair of smart glasses to help blind and visually impaired people detect obstacles
 It uses an ultrasonic sensor to detect obstacles in front of the user. The sensor continuously measures the distance between the user and nearby objects.
 
 When an obstacle is detected, the ESP32 processes the distance information and activates a buzzer to warn the user.
